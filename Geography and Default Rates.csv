@@ -1,0 +1,16 @@
+purpose,total_loans,defaults,default_rate
+educational,11,3,27.27
+small_business,1250,225,18.0
+moving,747,118,15.8
+wedding,109,15,13.76
+medical,1372,181,13.19
+debt_consolidation,64160,8345,13.01
+other,6865,817,11.9
+house,711,84,11.81
+major_purchase,2511,289,11.51
+vacation,746,82,10.99
+home_improvement,7331,781,10.65
+renewable_energy,58,6,10.34
+credit_card,26019,2565,9.86
+car,1141,105,9.2
+,4,0,0.0
