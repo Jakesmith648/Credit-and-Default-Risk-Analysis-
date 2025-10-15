@@ -1,3 +1,6 @@
+Dashboard with Insights and Bi.  https://public.tableau.com/app/profile/jake.smith4051/viz/DafaultAnalysis/Story1?publish=yes
+
+
 # Credit-and-Default-Risk-Analysis-
 Diving into Reasons and Cautions for Default Rates and Providing Insights.  This projects shows skills in analytics stack (SQL, TABLEAU as well as PYTHON) 
 
