@@ -113,7 +113,7 @@ Rooted in **applied economics**, this project uses predictive analytics to balan
 
 ### Author
 **Jake Smith**  
-MSc in Applied Economics | Data Analyst  
+MSc in Applied Economics | BA in Psychology  
 [jakesmith648@gmail.com] | [https://www.linkedin.com/in/jacob-smith-a46318153/]  
 
 ---
